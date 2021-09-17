@@ -31,6 +31,7 @@ gh repo clone manthan89-py/Data-Science
 2. Data Preprocessing
 3. Introduction of Orange tool Part-1
 4. Introduction of Orange tool Part-2
+5. Data Preprocessing with the Orange tool
 
 # Resources for Learning 💡
 ### Blogs 📗
