@@ -38,5 +38,5 @@ pip install opencv-python  matplotlib
 * [Matplotlib](https://matplotlib.org/stable/contents.html)
 
 # More Information 📩
-* For more details do check out full blog on this project [here]()
+* For more details do check out full blog on this project [here](https://manthan-bhikadiya.medium.com/data-science-gender-and-age-prediction-project-8ebc65ee3109?source=user_profile---------0----------------------------)
 * [Data Science Blog Series Link](https://znap.link/manthan.bhikadiya)

@@ -33,7 +33,12 @@ gh repo clone manthan89-py/Data-Science
 4. Introduction of Orange tool Part-1
 5. Introduction of Orange tool Part-2
 6. Data Preprocessing with the Orange tool
-11. Gender and Age Prediction
+7. Introduction to Power BI
+8. Create a Simple Dashboard in Power BI
+9.  Create a Report in Power BI
+10. Introduction to Neo4j and Gephi Tool
+11. **Project 1:** Gender and Age Prediction
+12. **Project 2:** Movie Recommendation System
 
 # Resources for Learning 💡
 ### Blogs 📗
