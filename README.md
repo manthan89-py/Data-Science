@@ -33,6 +33,7 @@ gh repo clone manthan89-py/Data-Science
 4. Introduction of Orange tool Part-1
 5. Introduction of Orange tool Part-2
 6. Data Preprocessing with the Orange tool
+11. Gender and Age Prediction
 
 # Resources for Learning 💡
 ### Blogs 📗

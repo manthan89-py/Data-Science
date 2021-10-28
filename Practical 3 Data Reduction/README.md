@@ -3,8 +3,8 @@
 * In this particular tutorial I applied different Data Reduction methods on dataset.
 * I Applied Following Preprocessing methods:
     1. PCA
-    2.Variance Threshold
-    3.t-SNE
+    2. Variance Threshold
+    3. t-SNE
 * You Can Apply this Methods on other dataset also.
 * I used the Iris dataset [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
 * I used Scikit Library for Data Reduction or Dimensionality Reduction.
