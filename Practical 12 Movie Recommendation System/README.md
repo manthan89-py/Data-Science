@@ -1,3 +1,5 @@
+![movie recommedation](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/data-science-movie-recommendation-project.jpg)
+<center>Credits</center>
 
 # Practical 12: Movie Recommendation System 🏹
 * In this particular practical I create project **Movie Recommendation System.**
